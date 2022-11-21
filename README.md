@@ -1,6 +1,6 @@
 # Belly Button Biodiversity
 
-An interactive [dashboard](https://alydavis.github.io/plotly-deploy/) exploring Belly Button Biodiversity data.
+An interactive [dashboard](https://alydavis.github.io/Plotly-Deploy/) exploring Belly Button Biodiversity data.
 
 ## About the Project
 The human body is home to many different types of bacteria, with a single belly button housing up to 100 different species. With so much data across hundreds of particpants, what is the best way to visualize the types of bacteria in the body? This project utilizes a sample data set from belly button bacteria. (Data source: ) The JSON data is parsed and transformed with JavaScript, and an interactive HTML dashboard displays the results. 
